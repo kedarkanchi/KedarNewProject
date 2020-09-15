@@ -17,3 +17,4 @@ Using pom.xml The maven surefire plugin will execute the test with the maven com
 Run through command line. Then open Run.bat file and specify the command as "mvn clean install -DbrowserValue=firefox" save and run it. The default browser is set as "chrome".
 
 How and where to view the reports:- In console JUnit its display detailed report default cucumber reports. And removed debugging statements such as System.out.println(), but used Log4j to logging of events both in log file and console.
+URL  ::  https://github.com/kedarkanchi/KedarNewProject.git
